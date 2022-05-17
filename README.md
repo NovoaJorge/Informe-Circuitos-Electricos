@@ -37,11 +37,11 @@ estos objetivos deberan de ser cumplidos dentro de un periodo preliminar de tiem
   
   CAPITULO II
   
-  •
+  • gestionar de una buena manera la informacion relacionada con la carga electrica, fuentes de voltaje y corriente.
   
-  •
+  • Aplicar los conocimientos del capitulo I en especial las unidades metricas.
   
-  •
+  • Indagar en todo el tema relacionado con la seguridad electrica.
 
 3. MARCO TEORICO
 
@@ -59,8 +59,19 @@ Capitulo II
 
 
 5. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+[![a89c35f5-932d-4b51-8312-fae905d18379.jpg](https://i.postimg.cc/9f5W3DKp/a89c35f5-932d-4b51-8312-fae905d18379.jpg)](https://postimg.cc/yDjqc8Vg)
+[![8384ad73-e680-4217-9b5b-5191acacdfd3.jpg](https://i.postimg.cc/d3LMZFg3/8384ad73-e680-4217-9b5b-5191acacdfd3.jpg)](https://postimg.cc/y34p2M1C)
+[![07e76408-1575-425b-8962-6ab01b0051ad.jpg](https://i.postimg.cc/RVwm7SNJ/07e76408-1575-425b-8962-6ab01b0051ad.jpg)](https://postimg.cc/N5GZYw8Q)
+
+
 6. VIDEO
+
 7. CONCLUCIONES 
+
+
+La informacion obtenida en el desarrollo de la unidad I y II sera de mucha utlidad para ponerla en practica al momento de trabajar en los ejercicios dispuestos, proyectos lecciones examenes entre otros ademas que nos ayuda a refrescar conocimientos obtenidos anteriormente.
+
 8. BIBLIOGRAFIA
 Godoy, Y., & González, Y. (2018). Aspectos matemáticos que amplían la noción de notación científica en el área de física de educación media general. Revista científica, 1(31), 45–54. https://doi.org/10.14483/23448350.12257
 Prefijo métrico. (n.d.). Hmong.es; tok.wiki. Retrieved May 17, 2022, from https://hmong.es/wiki/SI_prefix
