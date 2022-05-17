@@ -30,7 +30,9 @@ La correcta interpretación de los capítulo I y II nos ayudaran para una buena 
   
   • Emplear de manera correcta la notacion cientific asi se podra manejar de una mejor manera los resultados de nuestros ejercicios.
   
-  • Entender 
+  • Entender las conversiones de unidades metricas para una buena interpretacion de la tabla del sistema internacional.
+
+estos objetivos deberan de ser cumplidos dentro de un periodo preliminar de tiempo, para poder entender de manera uniforme la materia de fundamentos de circuitos.
   
   
   CAPITULO II
