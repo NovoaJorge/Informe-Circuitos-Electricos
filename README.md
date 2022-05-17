@@ -55,6 +55,7 @@ La unidades de medicion son las unidades utilizadas para expresar magnitudes fí
 
 Capitulo II
 
+[![Blank-diagram-1.png](https://i.postimg.cc/fyyC1Xq2/Blank-diagram-1.png)](https://postimg.cc/K3XtMK2B)
 
 
 5. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
