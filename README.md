@@ -22,7 +22,7 @@ NOMBRE DEL PROFESOR: ING. DARWIN ALULEMA
 
 1. OBJETIVOS
 
- 
+La correcta interpretación de los capítulo I y II nos ayudaran para una buena comprensión sobre la materia de fundamentos de circuitos eléctricos, para poder llegar a este desarrollo tendremos que llegar a dominar ciertos parámetros de manera secuencial, esto quiere decir si no completamos de manera adecuada la unidad I no podremos avanzar a la II y así sucesivamente.
   
   CAPITULO I 
   
