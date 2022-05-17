@@ -22,11 +22,24 @@ NOMBRE DEL PROFESOR: ING. DARWIN ALULEMA
 
 1. OBJETIVOS
 
-  og
+ 
   
   CAPITULO I 
   
+  •
+  
+  •
+  
+  •
+  
+  
   CAPITULO II
+  
+  •
+  
+  •
+  
+  •
 
 3. MARCO TEORICO
 
