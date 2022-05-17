@@ -62,6 +62,9 @@ Capitulo II
 6. VIDEO
 7. CONCLUCIONES 
 8. BIBLIOGRAFIA
+Godoy, Y., & González, Y. (2018). Aspectos matemáticos que amplían la noción de notación científica en el área de física de educación media general. Revista científica, 1(31), 45–54. https://doi.org/10.14483/23448350.12257
+Prefijo métrico. (n.d.). Hmong.es; tok.wiki. Retrieved May 17, 2022, from https://hmong.es/wiki/SI_prefix
+Significados. (2019, August 8). Unidades de medida. Significados. https://www.significados.com/unidades-de-medida/
 
 
   
