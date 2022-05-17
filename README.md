@@ -37,6 +37,7 @@ estos objetivos deberan de ser cumplidos dentro de un periodo preliminar de tiem
   
   CAPITULO II
   
+  
   • gestionar de una buena manera la informacion relacionada con la carga electrica, fuentes de voltaje y corriente.
   
   • Aplicar los conocimientos del capitulo I en especial las unidades metricas.
@@ -54,6 +55,16 @@ La unidades de medicion son las unidades utilizadas para expresar magnitudes fí
 
 
 Capitulo II
+
+
+En esta unidad veremos que el átomo se compone de un núcleo, el cual es la parte central, allí se encuentran los protones y los neutrones de igual manera aprenderemos que la carga eléctrica es una propiedad física intrínseca de algunas partículas subatómicas que se manifiesta mediante fuerzas de atracción y repulsión entre ellas a través de campos electromagnéticos.
+
+La relación entre corriente, voltaje y resistencia se expresa por la ley de Ohn. Determina que la corriente que fluye en un circuito es directamente proporcionar al voltaje aplicado e inversamente proporcional a la resistencia del circuito, siempre que la temperatura se mantenga constante
+
+Se denomina resistencia o resistor al componente electrónico diseñado para introducir una resistencia eléctrica determinada entre dos puntos de un circuito eléctrico también veremos que un circuito es una interconexión de componentes eléctricos que transportan la corriente eléctrica a través de una trayectoria cerrada.
+
+Y para finalizar entenderemos la Seguridad Eléctrica es la responsable de que esta energía se use bien, también se encarga de mantener los sistemas eléctricos (instalaciones eléctricas, cables, subestaciones) seguros para las personas y prevenir accidentes eléctricos.
+
 
 [![Blank-diagram-1.png](https://i.postimg.cc/fyyC1Xq2/Blank-diagram-1.png)](https://postimg.cc/K3XtMK2B)
 
@@ -73,9 +84,16 @@ Capitulo II
 La informacion obtenida en el desarrollo de la unidad I y II sera de mucha utlidad para ponerla en practica al momento de trabajar en los ejercicios dispuestos, proyectos lecciones examenes entre otros ademas que nos ayuda a refrescar conocimientos obtenidos anteriormente.
 
 8. BIBLIOGRAFIA
-Godoy, Y., & González, Y. (2018). Aspectos matemáticos que amplían la noción de notación científica en el área de física de educación media general. Revista científica, 1(31), 45–54. https://doi.org/10.14483/23448350.12257
-Prefijo métrico. (n.d.). Hmong.es; tok.wiki. Retrieved May 17, 2022, from https://hmong.es/wiki/SI_prefix
-Significados. (2019, August 8). Unidades de medida. Significados. https://www.significados.com/unidades-de-medida/
+
+Godoy, Y., & González, Y. (2018). Aspectos matemáticos que amplían la noción de notación científica en el área de física de educación media general. Revista científica, 1(31), 45–54. 
+
+https://doi.org/10.14483/23448350.12257Prefijo métrico. (n.d.). 
+
+Hmong.es; tok.wiki. Retrieved May 17, 2022, from https://hmong.es/wiki/SI_prefix
+
+Significados. (2019, August 8). Unidades de medida. 
+
+Significados. https://www.significados.com/unidades-de-medida/
 
 
   
