@@ -45,6 +45,11 @@ estos objetivos deberan de ser cumplidos dentro de un periodo preliminar de tiem
 
 3. MARCO TEORICO
 
+CAPITULO I
+
+
+
+
 [![Blank-diagram.png](https://i.postimg.cc/1X25zN7n/Blank-diagram.png)](https://postimg.cc/CnCVPdgS)
 
 
