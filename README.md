@@ -26,11 +26,11 @@ La correcta interpretación de los capítulo I y II nos ayudaran para una buena 
   
   CAPITULO I 
   
-  •
+  • Interpretar de manera correcta las unidades de medicion establecidas por el SISTEMA INTERNACIONAL (S.I).
   
-  •
+  • Emplear de manera correcta la notacion cientific asi se podra manejar de una mejor manera los resultados de nuestros ejercicios.
   
-  •
+  • Entender 
   
   
   CAPITULO II
